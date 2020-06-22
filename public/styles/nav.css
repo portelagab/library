@@ -1,0 +1,39 @@
+
+
+/* Add a black background color to the top navigation */
+.topnav {
+    background-color: white;
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+  }
+  
+  /* Style the links inside the navigation bar */
+  .topnav a {
+    float: left;
+    color:gray; 
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 14px;
+    font-weight: bold;
+    font-family: Roboto;
+  }
+  
+  .topnav span{
+      background-color:orangered;
+      border-radius: 8px;
+      display: flex;
+
+  }
+  .topnav span a{
+      color:white;
+      padding: 8px;
+    }
+  /* Change the color of links on hover */
+  .topnav a:hover {
+    color: black;
+  }
+  .topnav .active{
+    margin-top: 8px;
+  }

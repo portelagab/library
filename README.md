@@ -22,7 +22,7 @@ Books Library
 For library Users - Web platform where users can search by Title or Author available books on the library.On the search result the user will find some descritive comments about the books, as well as it's sector location on library.
 For library Staff - The staff will be able to add new books, delete and edit any information for updating books database.
 
-This project is being developed just for learning and improving my skills. I plan on add some features as I learn more development tools.
+###### This project is being developed just for learning and improving my skills. I plan on add some features as I learn more development tools.
 
 
 ## 🎨 Layout
@@ -30,8 +30,8 @@ This project is being developed just for learning and improving my skills. I pla
 ### Web
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="home search" title="#BooksLibrary" src="public/assets/home-search.png" width="200px">
-  <img alt="search results" title="#BooksLibrary" src="public/assets/search-results.png" width="200px">
+  <img alt="home search" title="#BooksLibrary" src="public/assets/home-search.png" width="500px">
+  <img alt="search results" title="#BooksLibrary" src="public/assets/search-result.png" width="500px">
 </p>
 
 ## 🛠 Dev Technologies
@@ -52,7 +52,7 @@ The basic tools needed to run this application are [Node.js][nodejs], [Git](http
 
 ```bash
 # Clone this repsitory
-$ git clone https://github.com/ogab81/NLW1
+$ git clone https://github.com/ogab81/library
 
 # Acess the projects folder on terminal/cmd
 $ cd library
@@ -73,7 +73,7 @@ $ npm run start
 2. Create a new branch with your features : `git checkout -b my-feature`
 3. Commit your changes: `git commit -m "feature: My new feature"`
 4. Push to the branch: `git push origin my-feature`
-> Some more on making contributions on projects [guia de como contribuir no GitHub](https://github.com/firstcontributions/first-contributions)
+> Some more on contributing on projects [How to contribute on GitHub guide](https://github.com/firstcontributions/first-contributions)
 
 
 ## 📝 Licença

@@ -31,10 +31,10 @@ For library Staff - The staff will be able to add new books, delete and edit any
 ### Web
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content:space-evenly;">
-  <img alt="home search" title="#BooksLibrary" src="public/assets/home.png" width="250px">
-  <img alt="search results" title="#BooksLibrary" src="public/assets/search-result.png" width="250px">
-  <img alt="staff home" title="#BooksLibrary" src="public/assets/staff-view.png" width="250px">
-  <img alt="staff edit" title="#BooksLibrary" src="public/assets/staff-edit.png" width="250px">
+  <img alt="home search" title="#BooksLibrary" src="public/assets/home.png" width="350px">
+  <img alt="search results" title="#BooksLibrary" src="public/assets/search-result.png" width="350px">
+  <img alt="staff home" title="#BooksLibrary" src="public/assets/staff-view.png" width="350px">
+  <img alt="staff edit" title="#BooksLibrary" src="public/assets/staff-edit.png" width="350px">
 </p>
 
 ## 🛠 Dev Technologies

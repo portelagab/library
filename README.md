@@ -21,7 +21,7 @@ Books Library
 
 For library Users - Web platform where users can search by Title or Author available books on the library.On the search result the user will find some descritive comments about the books, as well as it's sector location on library.
 For library Staff - The staff will be able to add new books, delete and edit any information for updating books database.
-** The staff access page is being developed.
+
 
 ###### This project is being developed for learning and improving my skills. I plan on add some features as I learn more development tools.
 
@@ -31,8 +31,10 @@ For library Staff - The staff will be able to add new books, delete and edit any
 ### Web
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content:space-evenly;">
-  <img alt="home search" title="#BooksLibrary" src="public/assets/home.png" width="500px">
-  <img alt="search results" title="#BooksLibrary" src="public/assets/search-result.png" width="500px">
+  <img alt="home search" title="#BooksLibrary" src="public/assets/home.png" width="250px">
+  <img alt="search results" title="#BooksLibrary" src="public/assets/search-result.png" width="250px">
+  <img alt="staff home" title="#BooksLibrary" src="public/assets/staff-view.png" width="250px">
+  <img alt="staff edit" title="#BooksLibrary" src="public/assets/staff-edit.png" width="250px">
 </p>
 
 ## 🛠 Dev Technologies
@@ -62,7 +64,7 @@ $ cd library
 $ npm install
 
 # execute the application on developer mode
-$ npm run start
+$ npm start
 
 # Application will be running on port:3000 -  http://localhost:3000
 ```

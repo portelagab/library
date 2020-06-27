@@ -1,0 +1,20 @@
+<%- include ('_header') %>
+
+<div class='container'>
+<h3 style="color: gray; font-family: Roboto;font-weight: bold;">Delete a record?</h3><br>
+
+<form action="/staff-delete/<%= model.Book_ID %>" method="POST">
+    <div class="form-horizontal">
+
+        <%- include ('_display') %>
+
+        <div class="group-form row">
+            <label class="col-form-label col-sm-2"></label>
+            <div class="col-sm-10">
+                <input type="submit" value="Delete" class="btn btn-default btn-danger">
+                <a class="btn btn-outline-dark" href="/staff-view">Cancel</a>
+            </div>
+        </div>
+    </div>
+</form>
+<%- include ('_footer') %>

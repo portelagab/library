@@ -19,8 +19,8 @@ Books Library
 
 ## About the Project
 
-For library Users - Web platform where users can search by Title or Author available books on the library.On the search result the user will find some descritive comments about the books, as well as it's sector location on library.
-For library Staff - The staff will be able to add new books, delete and edit any information for updating books database.
+- **For library Users** - Web platform where users can search by Title or Author available books on the library.On the search result the user will find some descritive comments about the books, as well as it's sector location on library.
+- **For library Staff** - The staff will be able to add new books, delete and edit any information for updating books database.
 
 
 ###### This project is being developed for learning and improving my skills. I plan on add some features as I learn more development tools.
